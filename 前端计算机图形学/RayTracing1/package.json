@@ -1,0 +1,23 @@
+{
+  "name": "raytracing1",
+  "version": "1.0.0",
+  "description": "前端计算机图形学入门之光线追踪1.0",
+  "main": "scripts/index.ts",
+  "dependencies": {
+    "_typescript@3.4.5@typescript": "^3.4.5",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.0.1",
+    "typescript": "^3.4.5",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+   
+      "build": "webpack"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
